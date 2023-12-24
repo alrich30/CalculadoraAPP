@@ -1,0 +1,17 @@
+#resultBox{
+
+    /*Diseño del la entrada y salida de numeros*/
+    color: var(--white);
+    font-size: 13px;
+
+    /*Diseño de la caja*/
+    width: 325px;
+    background-color: #3c4043;
+    padding: 1.5rem 1rem 0 0;
+    border-radius: 5px;
+    border: 1px solid var(--gray); 
+}
+h1{
+    text-align: end;
+    margin: 0;
+}
